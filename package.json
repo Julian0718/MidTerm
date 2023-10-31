@@ -1,0 +1,28 @@
+{
+  "name": "midterm",
+  "version": "1.0.0",
+  "description": "ReactJS form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julian0718/MidTerm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julian0718/MidTerm/issues"
+  },
+  "homepage": "https://github.com/Julian0718/MidTerm#readme",
+  "dependencies": {
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2",
+    "@babel/preset-react": "^7.22.15",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.17.0"
+  }
+}
